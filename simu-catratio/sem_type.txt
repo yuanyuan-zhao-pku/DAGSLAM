@@ -1,0 +1,6 @@
+k=2
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss'] 
+k=4
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'logistic', 'logistic']
+k=10
+sem_type:['gauss', 'logistic', 'gauss', 'logistic', 'logistic', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'logistic', 'gauss', 'logistic', 'logistic', 'logistic', 'logistic']
