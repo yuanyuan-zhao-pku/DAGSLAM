@@ -1,0 +1,6 @@
+distribution=gauss
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+distribution=exp
+sem_type:['exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'exp', 'logistic', 'exp']
+distribution=gumbel
+sem_type:['gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'gumbel', 'logistic', 'gumbel']

@@ -1,0 +1,8 @@
+d = 10
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+d = 20
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+d = 40
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss']
+d = 100
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss']
