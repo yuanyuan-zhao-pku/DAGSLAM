@@ -3,6 +3,7 @@ DAG Structure Learning using DAGMA
 References: https://github.com/kevinsbello/dagma
 """
 
+from dagma import utils
 from dagma.linear import DagmaLinear
 
 from _dagslam.DAGSLAM import count_accuracy, count_accuracy_und
@@ -68,6 +69,7 @@ with open(file_acc_n, mode="w", newline="") as file:
                 W_est = model.fit(
                     X, lambda1=0.02
                 )  # fit the model with L1 reg. (coeff. 0.02)
+                assert utils.is_dag(W_est)
 
                 np.savetxt(filenameWE, W_est, delimiter=",")
                 ACC[i, :] = count_accuracy(B_true, W_est != 0)
