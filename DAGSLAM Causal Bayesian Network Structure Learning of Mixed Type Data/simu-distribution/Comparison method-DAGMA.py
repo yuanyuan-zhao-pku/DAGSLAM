@@ -3,8 +3,6 @@ DAG Structure Learning using DAGMA
 References: https://github.com/kevinsbello/dagma
 """
 
-# import torch
-# from dagma.nonlinear import DagmaMLP, DagmaNonlinear
 from dagma import utils
 from dagma.linear import DagmaLinear
 
@@ -76,6 +74,7 @@ with open(file_acc_distribution, mode="w", newline="") as file:
                 W_est = model.fit(
                     X, lambda1=0.02
                 )  # fit the model with L1 reg. (coeff. 0.02)
+                assert utils.is_dag(W_est)
                 np.savetxt(filenameWE, W_est, delimiter=",")
                 ACC[i, :] = count_accuracy(B_true, W_est != 0)
                 ACC_und[i, :] = count_accuracy_und(B_true, W_est != 0)
